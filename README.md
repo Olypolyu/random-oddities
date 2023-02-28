@@ -1,32 +1,19 @@
-# Minimal Mod
+# Kheprep's Emporium of Random Oddties 
 
-Babric example mod, without the examples.
+Babric mod, adds random shite.
 
-## Prerequisites
-- JDK for Java 17 ([Eclipse Temurin](https://adoptium.net/temurin/releases/) recommended)
-- IntelliJ IDEA
-- Minecraft Development plugin (Optional, but highly recommended)
+## Disclaimer
+i am not experienced in java in anyway, shape or form and i am *not* the person you should be learning modding from. 
+if you are looking for a mod to reverse engineer check out 
+https://github.com/Turnip-Labs/bta-example-mod
 
-## Setup instructions
+and, incase you are looking for a template for your babric mod check out
+https://github.com/Turnip-Labs/bta-minimal-mod
 
-1. Download or clone this repository and put it somewhere.
-```
-git clone https://github.com/Turnip-Labs/bta-minimal-mod.git
-```
+(this mod was created when the minimal mod wasn't setup as a template just yet.)
 
-2. Import the project in IntelliJ IDEA, close it and open it again.
+## installing
+this mod requires a instance of babric bta which you can find here 
+https://discord.com/channels/866992171319558144/1046707025234640956
 
-
-3. Create a new run configuration by going in `Run > Edit Configurations`  
-   Then click on the plus icon and select Gradle. In the `Tasks and Arguments` field enter `build`  
-   Running it will build your finished jar files and put them in `build/libs/`
-
-
-4. Open `File > Settings` and head to `Build, Execution, Development > Build Tools > Gradle`  
-   Change `Build and run using` and `Run tests using` to `IntelliJ IDEA`
-
-
-5. Open `File > Project Structure`, select `Project` and set `Compiler output` to your project's path/out.
-
-
-6. Done! Now all that's left is to change every mention of `examplemod` to your own mod id. Happy modding!
+so far all versions are for 1.7.6.2_02, 2.#.# releases should be 1.7.7 only, 3.#.# on 1.7.8 and so on.
