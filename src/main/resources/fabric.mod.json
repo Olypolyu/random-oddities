@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "randomoddities",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "Kheprep's Emporium of Random Oddities",
+  "description": "Random shite i added for fun.",
   "authors": [
-    "Turnip Labs"
+    "kheprep"
   ],
   "contact": {
     "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/Olypolyu/random-oddties"
   },
 
   "license": "CC0-1.0",
@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+        "Olypolyu.randomoddities.RandomOddities"
     ]
   },
   "mixins": [
-      "examplemod.mixins.json"
+      "randomoddities.mixins.json"
   ],
 
   "depends": {

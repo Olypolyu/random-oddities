@@ -1,0 +1,155 @@
+tile.randomoddities.test.name= T E S T
+
+// Blocks
+
+tile.randomoddities.painted_glass.white.name=Painted Glass
+tile.randomoddities.painted_glass.white.desc=Who even PAINTS glass???
+
+tile.randomoddities.FireStriker.name=Fire Striker Block
+tile.randomoddities.FireStriker.desc=Remote arson!
+
+tile.randomoddities.UnLoaderRail.name=Unloader Rail
+tile.randomoddities.UnLoaderRail.desc=Unloads a mine cart's inventory to a chest
+
+tile.randomoddities.LoaderRail.name=loader Rail
+tile.randomoddities.LoaderRail.desc=loads a mine cart's inventory to a chest
+
+tile.randomoddities.FlintBlock.name=Flint Block
+tile.randomoddities.FlintBlock.desc=A block made out of flint... what else were you expecting?
+
+tile.randomoddities.Trampoline.name=Trampoline
+tile.randomoddities.Trampoline.desc=Up and away! (to your death.)
+
+tile.randomoddities.Pillow.name=Pillow
+tile.randomoddities.Pillow.desc=squishy and confy.
+
+tile.randomoddities.IronChest.name=Iron Chest
+tile.randomoddities.IronChest.desc= Seriously, why do you need so much storage?
+
+tile.randomoddities.ObsidianChest.name=Obsidian Chest
+tile.randomoddities.ObsidianChest.desc=you *might* be a hoarder.
+
+tile.randomoddities.BubbleGenerator.name=Bubble Generator
+tile.randomoddities.BubbleGenerator.desc=Is this a bathhouse episode?
+
+tile.randomoddities.FishTrap.name=Fish Trap
+tile.randomoddities.FishTrap.desc=Textures made by Loafio
+
+tile.randomoddities.CocoBeans.name=Cocoa Beans Plant
+tile.randomoddities.CocoBeans.desc=You should not be able to get yo hands on these.
+
+// pie
+item.randomoddities.food.pumpkin_pie.name=Pumpkin Pie
+item.randomoddities.PumpkinPie.desc=somehow, you feel like this thing has been with you all along.
+
+tile.randomoddities.PumpkinPie.name=Pumpkin Pie
+tile.randomoddities.PumpkinPie.desc=somehow, you feel like this thing has been with you all along.
+
+
+// wind bottle
+item.randomoddities.windLamp.name=Wind Lamp
+item.randomoddities.windLamp.desc=It's wick seems to be a feather...
+
+// paint brushes
+item.randomoddities.paint_brush.white.name=White Paint Brush
+item.randomoddities.paint_brush.white.desc=what a brush off...
+
+item.randomoddities.paint_brush.orange.name=Orange Paint Brush
+item.randomoddities.paint_brush.orange.desc=what a brush off...
+
+item.randomoddities.paint_brush.magenta.name=Magenta Paint Brush
+item.randomoddities.paint_brush.magenta.desc=what a brush off...
+
+item.randomoddities.paint_brush.lightblue.name=Light Blue Paint Brush
+item.randomoddities.paint_brush.lightblue.desc=what a brush off...
+
+item.randomoddities.paint_brush.yellow.name=Yellow Paint Brush
+item.randomoddities.paint_brush.yellow.desc=what a brush off...
+
+item.randomoddities.paint_brush.lime.name=Lime Paint Brush
+item.randomoddities.paint_brush.lime.desc=what a brush off...
+
+item.randomoddities.paint_brush.pink.name=Pink Paint Brush
+item.randomoddities.paint_brush.pink.desc=what a brush off...
+
+item.randomoddities.paint_brush.gray.name=Gray Paint Brush
+item.randomoddities.paint_brush.gray.desc=what a brush off...
+
+item.randomoddities.paint_brush.silver.name=Light Gray Paint Brush
+item.randomoddities.paint_brush.silver.desc=what a brush off...
+
+item.randomoddities.paint_brush.cyan.name=Cyan Paint Brush
+item.randomoddities.paint_brush.cyan.desc=what a brush off...
+
+item.randomoddities.paint_brush.purple.name=Purple Paint Brush
+item.randomoddities.paint_brush.purple.desc=what a brush off...
+
+item.randomoddities.paint_brush.blue.name=Blue Paint Brush
+item.randomoddities.paint_brush.blue.desc=what a brush off...
+
+item.randomoddities.paint_brush.brown.name=Brown Paint Brush
+item.randomoddities.paint_brush.brown.desc=what a brush off...
+
+item.randomoddities.paint_brush.green.name=Green Paint Brush
+item.randomoddities.paint_brush.green.desc=what a brush off...
+
+item.randomoddities.paint_brush.red.name=Red Paint Brush
+item.randomoddities.paint_brush.red.desc=what a brush off...
+
+item.randomoddities.paint_brush.black.name=Black Paint Brush
+item.randomoddities.paint_brush.black.desc=what a brush off...
+
+item.randomoddities.paint_brush.scrapper.name=Paint Scrapper
+item.randomoddities.paint_brush.scrapper.desc=(Only applicable to wood) Paint begone!
+
+// Spawn eggs
+item.randomoddities.spawn_egg.pig.name=Pig spawn egg
+item.randomoddities.spawn_egg.pig.desc=spawns a mob
+
+item.randomoddities.spawn_egg.cow.name=Cow spawn egg
+item.randomoddities.spawn_egg.cow.desc=spawns a mob
+
+item.randomoddities.spawn_egg.chicken.name=Chicken spawn egg
+item.randomoddities.spawn_egg.chicken.desc=spawns a mob
+
+item.randomoddities.spawn_egg.sheep.name=Sheep spawn egg
+item.randomoddities.spawn_egg.sheep.desc=spawns a mob
+
+item.randomoddities.spawn_egg.squid.name=Squid spawn egg
+item.randomoddities.spawn_egg.squid.desc=spawns a mob
+
+item.randomoddities.spawn_egg.wolf.name=Wolf spawn egg
+item.randomoddities.spawn_egg.wolf.desc=spawns a mob
+
+item.randomoddities.spawn_egg.zombie.name=Zombie spawn egg
+item.randomoddities.spawn_egg.zombie.desc=spawns a mob
+
+item.randomoddities.spawn_egg.creeper.name=Creeper spawn egg
+item.randomoddities.spawn_egg.creeper.desc=spawns a mob
+
+item.randomoddities.spawn_egg.skeleton.name=Skeleton spawn egg
+item.randomoddities.spawn_egg.skeleton.desc=spawns a mob
+
+item.randomoddities.spawn_egg.spider.name=Spider spawn egg
+item.randomoddities.spawn_egg.spider.desc=spawns a mob
+
+item.randomoddities.spawn_egg.slime.name=Slime spawn egg
+item.randomoddities.spawn_egg.slime.desc=spawns a mob
+
+item.randomoddities.spawn_egg.pigman.name=Zombie Pigman spawn egg
+item.randomoddities.spawn_egg.pigman.desc=spawns a mob
+
+item.randomoddities.spawn_egg.ghast.name=Ghast spawn egg
+item.randomoddities.spawn_egg.ghast.desc=spawns a mob
+
+item.randomoddities.spawn_egg.giant.name=Giant Zombie spawn egg
+item.randomoddities.spawn_egg.giant.desc=spawns a mob
+
+item.randomoddities.spawn_egg.armoured_zombie.name=Armoured Zombie spawn egg
+item.randomoddities.spawn_egg.armoured_zombie.desc=spawns a mob
+
+item.randomoddities.spawn_egg.monster.name=Human spawn egg
+item.randomoddities.spawn_egg.monster.desc=spawns a mob
+
+item.randomoddities.spawn_egg.boar.name=Boar spawn egg
+item.randomoddities.spawn_egg.boar.desc=spawns a mob
